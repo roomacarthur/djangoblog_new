@@ -33,6 +33,7 @@ else:
 
 ALLOWED_HOSTS = [
     '8000-roomacarthu-djangoblogn-st8rwzgbscb.ws-eu110.gitpod.io',
+    '.herokuapp.com' #test I don't think it works. 
 ]
 
 
