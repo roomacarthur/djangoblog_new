@@ -1,12 +1,14 @@
 body {
-    background-color: #F9FAFC;
+    /* background-color: #F9FAFC; */
+    background-color: #2153b5 !important;
 }
 
 .brand {
     font-family: Lato, sans-serif;
     font-size: 1.4rem;
     font-weight: 700;
-    color: #4A4A4F;
+    /* color: #4A4A4F; */
+    color: #bb1cdb;
 }
 
 .red-o {
